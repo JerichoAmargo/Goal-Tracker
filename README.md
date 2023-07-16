@@ -11,3 +11,26 @@ In a world of continual distractions and rising demands on our time, a To-Do Lis
 The To-Do List app doesn't directly solve healthcare access or disease problems, but it indirectly contributes to SDG 3 by promoting well-being. It helps reduce stress, manage time better, encourage healthy habits, and improve productivity. By supporting personal well-being, the app contributes to the larger goal of promoting a healthier lifestyle for all.
 
 ## Development Model
+
+![Agile](Agile.png)
+
+### Requirements
+Determine what features the To-Do List app needs, like task creation, organization, reminders, collaboration, and device syncing.
+
+### Design
+Create a user-friendly interface with an easy-to-navigate layout, clear visual elements, and a pleasant overall look and feel.
+
+### Development
+Build the app using the chosen programming languages and frameworks, implementing the required features and ensuring compatibility across different devices and platforms.
+
+### Testing
+Check the app thoroughly to ensure it works properly, performs well, and meets user expectations through various tests like functionality, usability, performance, and compatibility.
+
+### Deployment
+Make the app available to users through app stores or web hosting platforms, following any guidelines or requirements specific to each distribution channel.
+
+### Review
+Collect user feedback to understand how the app is performing, address any issues or requests, and continuously improve the app based on user input.
+
+## System Architecture
+### Sequence diagram
