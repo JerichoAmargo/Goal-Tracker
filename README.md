@@ -34,3 +34,6 @@ Collect user feedback to understand how the app is performing, address any issue
 
 ## System Architecture
 ### Sequence diagram
+### Use Case Diagram
+
+## GitHub Repository
