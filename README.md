@@ -6,4 +6,4 @@
 
   In a world of continual distractions and rising demands on our time, a To-Do List app emerges as a vital ally in the search of productivity and organization. Its features, which include task creation and organization, task management capabilities, reminders and notifications, and sorting and filtering choices, combine to provide individuals with a strong task management solution. Users can improve their productivity, reduce stress, and fulfill their goals with greater ease by using a To-Do List app.
 
-![SDG-3] (https://github.com/JerichoAmargo/Goal-Tracker/blob/main/SDG-3.png)
+![SDG-3](SDG,png)
