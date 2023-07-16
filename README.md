@@ -1,4 +1,4 @@
-# Goal-Tracker: Elevating Well-being through Goals
+# To-Do List App
 
 ## Members:
 * Amargo, Jericho L.
