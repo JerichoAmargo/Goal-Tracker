@@ -1,6 +1,6 @@
 # To-Do List App
 
-## Description of the Project
+## Project Description
 
 Staying organized and handling our work efficiently has become more important than ever in today's fast-paced environment. With so many obligations to manage, it can be difficult to keep track of everything without a dependable system in place. Enter the To-Do List app, a digital productivity application that aims to improve task management and productivity. 
 
