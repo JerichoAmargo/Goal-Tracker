@@ -55,7 +55,7 @@ Collect user feedback to understand how the app is performing, address any issue
 
 ## Team Members
 <div align="center">
-  <p><img src="Team Members.png"></p>
+  <p><img src="team.png"></p>
 </div>
 
 ## Source Code
