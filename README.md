@@ -51,12 +51,13 @@ Collect user feedback to understand how the app is performing, address any issue
   The diagrams above were created by the team to demonstrate how users interact with the program. It indicates that the user can view all categories to add and select the task, choose the main priority in the task. The User can also delete and edit Task.
 
 ## Application Screenshot
+
 <div align="center">
-  <p><img src="GUI1.png"></p>
+  <p><img src="GUI1.png" width="300"></p>
 </div>
 
 <div align="center">
-  <p><img src="GUI2.png"></p>
+  <p><img src="GUI2.png" width="300"></p>
 </div>
 
 ## Team Members
