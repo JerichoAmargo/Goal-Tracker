@@ -54,6 +54,9 @@ Collect user feedback to understand how the app is performing, address any issue
 
 
 ## Team Members
+<div align="center">
+  <p><img src="Team Members.png"></p>
+</div>
 
 ## Source Code
 https://drive.google.com/file/d/1i6RG-NRAYX8_e7f648Wp0IJVJQZyeCMe/view
