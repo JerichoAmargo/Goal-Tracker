@@ -1,8 +1,15 @@
+<div align="center">
+<img src="ToDoLogo.png" width="450"></p>
+  </div>
+
+<div align="center">
+  
 # To-Do List App
+  </div>
 
 ## Project Description
 
-A To-Do List app acts as a digital task manager, providing a centralized platform to list all our tasks, and projects. With just a few taps, we can create new tasks, and add relevant details, such as notes or attachments. This ease of use makes the app highly accessible to all users, regardless of their technological proficiency. 
+  A To-Do List app acts as a digital task manager, providing a centralized platform to list all our tasks, and projects. With just a few taps, we can create new tasks, and add relevant details, such as notes or attachments. This ease of use makes the app highly accessible to all users, regardless of their technological proficiency. 
 
 In a world of continual distractions and rising demands on our time, a To-Do List app emerges as a vital ally in the search of productivity and organization. Its features, which include task creation and organization, task management capabilities, reminders and notifications, and sorting and filtering choices, combine to provide individuals with a strong task management solution. Users can improve their productivity, reduce stress, and fulfill their goals with greater ease by using a To-Do List app.
 
