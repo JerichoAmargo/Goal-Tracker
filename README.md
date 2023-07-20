@@ -34,8 +34,10 @@ Collect user feedback to understand how the app is performing, address any issue
 
 
 ## System Architecture
+
 ### Sequence diagram
 <img src="SequenceDiagram.png" width="300">
+
 ### Use Case Diagram
 <img src="UseCase.png" width="300">
 
