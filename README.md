@@ -53,11 +53,11 @@ Collect user feedback to understand how the app is performing, address any issue
 ## Application Screenshot
 
 <div align="center">
-  <p><img src="GUI1.png" width="300"></p>
+  <p><img src="GUI1.png" width="800"></p>
 </div>
 
 <div align="center">
-  <p><img src="GUI2.png" width="300"></p>
+  <p><img src="GUI2.png" width="800"></p>
 </div>
 
 ## Team Members
