@@ -36,11 +36,13 @@ Collect user feedback to understand how the app is performing, address any issue
 ## System Architecture
 
 ### Sequence diagram
+
 <div align="center">
   <p><img src="SequenceDiagram.png" width="300"></p>
 </div>
 
 ### Use Case Diagram
+
 <div align="center">
   <p><img src="UseCase.png" width="300"></p>
 </div>
