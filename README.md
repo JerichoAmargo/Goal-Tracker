@@ -36,10 +36,15 @@ Collect user feedback to understand how the app is performing, address any issue
 ## System Architecture
 
 ### Sequence diagram
-<img src="SequenceDiagram.png" width="400">
+<div align="center">
+  <p><img src="SequenceDiagram.png" width="300"></p>
+</div>
 
 ### Use Case Diagram
-<img src="UseCase.png" width="400">
+<div align="center">
+  <p><img src="UseCase.png" width="300"></p>
+</div>
+
 
   The diagrams above were created by the team to demonstrate how users interact with the program. It indicates that the user can view all categories to add and select the task, choose the main priority in the task. The User can also delete and edit Task.
 
