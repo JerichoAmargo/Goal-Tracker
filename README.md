@@ -52,11 +52,11 @@ Collect user feedback to understand how the app is performing, address any issue
 
 ## Application Screenshot
 <div align="center">
-  <p><img src="team.png"></p>
+  <p><img src="GUI1.png"></p>
 </div>
 
 <div align="center">
-  <p><img src="team.png"></p>
+  <p><img src="GUI2.png"></p>
 </div>
 
 ## Team Members
